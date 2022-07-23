@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+#imgBackground1 {
+  background-image: url("https://i.imgur.com/rRMHPsb.gif");
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#imgBackground2 {
+  background-image: url("https://i.imgur.com/Xti40F4.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+#imgBackground3 {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+#imgBackground4 {
+  background-image: url("https://i.imgur.com/5JCKw3W.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+#imgBackground5 {
+  background-color: rgb(0, 0, 0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 50vh;
+}
