@@ -18,7 +18,8 @@
   min-height: 100vh;
 }
 #imgBackground4 {
-  background-image: url("https://i.imgur.com/5JCKw3W.gif");
+  /* background-image: url("https://i.imgur.com/5JCKw3W.gif"); */
+  background-color: rgb(0, 0, 0);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
